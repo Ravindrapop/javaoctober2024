@@ -22,6 +22,14 @@ public class Test {
 		test.m1("Durga");  // String version
 		
 		test.m1(null); // String version
+		
+		
+		
+		String s1 = "Deepa";
+		
+		String s2 = new String("Deepa");
+		
+		StringBuffer sb = new StringBuffer("Deepa");
 
 
 	}
